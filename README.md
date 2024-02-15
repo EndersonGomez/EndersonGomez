@@ -1,6 +1,6 @@
 ### Un Cordial Saludo👋
 
-<img src="[https://postimg.cc/YvpHt4SK](https://i.postimg.cc/4xcNbVkd/c34ba21b-90fb-49c4-a11a-77c0a7e6bc6f.jpg)">
+<img src="https://postimg.cc/YvpHt4SK](https://i.postimg.cc/4xcNbVkd/c34ba21b-90fb-49c4-a11a-77c0a7e6bc6f.jpg)">
 <!--
 **EndersonGomez/EndersonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
