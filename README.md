@@ -15,9 +15,9 @@ Una persona apasionada por las posibilidades del futuro que se acerca por lo tan
 
 
 ### Programas
-
 ![Static Badge](https://img.shields.io/badge/Android_Studio-%23D106E2?style=for-the-badge&logo=androidstudio&logoColor=green&labelColor=purple)
 ![Static Badge](https://img.shields.io/badge/GOOGLE_SHEET-%23000000?style=for-the-badge&logo=googlesheets&logoColor=green&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visualstudio&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&labelColor=green)
 
 ## PROYECTOS
